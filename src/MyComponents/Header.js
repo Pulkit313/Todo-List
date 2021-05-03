@@ -44,7 +44,7 @@ export default function Header(props) {
               <button className="btn btn-outline-success" type="submit">
                 Search
               </button>
-            </form> :"nothing" }
+            </form> :"" }
          
         </div>
       </div>
